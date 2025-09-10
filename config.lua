@@ -45,8 +45,8 @@ Config.Doors = {
 
 -- Minigames
 Config.Minigames = {
-    ButtonMash = { style = 'default', difficulty = 1 },
-    anagram    = { style = 'default', difficulty = 1 }
+    ButtonMash = { style = 'default', difficulty = 10 },
+    anagram    = { style = 'default', difficulty = 10 }
 }
 
 -- Target
